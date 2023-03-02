@@ -1,0 +1,79 @@
+.logo{
+    font-size: 100px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 0%;
+    border-width: 2px,black;
+}
+.chairman{
+    background-color: blanchedalmond;
+    color: black;
+    text-align: center;
+    font-size: 50px;
+
+}
+.chair{
+    
+    height: 500px;
+    border-radius: 500px;
+
+}
+.teacher2{
+    margin-left: 700px;
+    margin-right: 100px;
+    margin-top: -300px;
+    font-size: 30px;
+}
+.director{
+    background-color: blanchedalmond;
+    color: black;
+    text-align: center;
+    font-size: 50px;
+    margin-top: 300px;
+}
+.teacher33{
+    
+}
+.teacher3{
+    margin-left: 700px;
+    margin-right: 100px;
+    margin-top: -300px;
+    font-size: 30px;
+
+}
+.codirector{
+
+background-color: blanchedalmond;
+    color: black;
+    text-align: center;
+    font-size: 50px;
+    margin-top: 100px;
+}
+.teach1{
+    margin-left: 800px;
+    margin-right: 100px;
+    margin-top: -400px;
+    font-size: 30px;
+}
+.dep{
+    font-size: 100px;
+    color: black;
+    background-color: aqua;
+    text-align: center;
+    margin-top: 130px;
+}
+.cse{
+    font-size: 50px;
+    background-color: black;
+    color: aliceblue;
+    margin-left: 600px;
+    margin-right: 700px;
+    margin-top: -500px;
+}
+footer {
+    text-align: center;
+    padding: 3px;
+    background-color: DarkSalmon;
+    color: green;
+  }
+  
